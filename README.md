@@ -9,7 +9,7 @@ React-Native App,
 
 + add passive and active feature to do
 
-+ delete + to-do
++ delete  to do list
 
 is an android / ios mobile application coded on.
 
